@@ -18,3 +18,14 @@
 .phpunit.result.cache
 /phpunit.xml
 ###< symfony/phpunit-bridge ###
+/tests/*
+/src/Entity/Client.php
+/src/Entity/intermidate.php
+/src/Entity/junior.php
+/src/Entity/level.php
+/src/Entity/User.php
+/src/Service/Game.php
+/src/Service/PrimeFactor.php
+/src/Service/Rectangle.php
+/src/Service/square.php
+/src/Service/MovieRental/*
